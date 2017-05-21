@@ -1,1 +1,1 @@
-# Merilnik-razdalje
+Program za merilnik razdalje
